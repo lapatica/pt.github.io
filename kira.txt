@@ -1,0 +1,7 @@
+ls
+kill -9 -1
+
+Leer más en: https://ayudalinux.com/finalizar-proceso-terminal/
+kill -9 -1
+pkill cat
+quit
